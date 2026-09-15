@@ -5,11 +5,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu29441/applied-programming-skills4/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/vtu29441/applied-programming-skills4/tree/master/0622-design-circular-queue) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu29441/applied-programming-skills4/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu29441/applied-programming-skills4/tree/master/0239-sliding-window-maximum) |
+| [0622-design-circular-queue](https://github.com/vtu29441/applied-programming-skills4/tree/master/0622-design-circular-queue) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu29441/applied-programming-skills4/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Sliding Window
 |  |
@@ -53,4 +55,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0199-binary-tree-right-side-view](https://github.com/vtu29441/applied-programming-skills4/tree/master/0199-binary-tree-right-side-view) |
+## Linked List
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/vtu29441/applied-programming-skills4/tree/master/0622-design-circular-queue) |
+## Design
+|  |
+| ------- |
+| [0622-design-circular-queue](https://github.com/vtu29441/applied-programming-skills4/tree/master/0622-design-circular-queue) |
 <!---LeetCode Topics End-->
