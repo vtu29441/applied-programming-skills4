@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu29441/applied-programming-skills4/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/vtu29441/applied-programming-skills4/tree/master/0621-task-scheduler) |
 | [0622-design-circular-queue](https://github.com/vtu29441/applied-programming-skills4/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu29441/applied-programming-skills4/tree/master/0641-design-circular-deque) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu29441/applied-programming-skills4/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/vtu29441/applied-programming-skills4/tree/master/0239-sliding-window-maximum) |
+| [0621-task-scheduler](https://github.com/vtu29441/applied-programming-skills4/tree/master/0621-task-scheduler) |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/vtu29441/applied-programming-skills4/tree/master/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 ## Monotonic Queue
 |  |
@@ -67,4 +69,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0622-design-circular-queue](https://github.com/vtu29441/applied-programming-skills4/tree/master/0622-design-circular-queue) |
 | [0641-design-circular-deque](https://github.com/vtu29441/applied-programming-skills4/tree/master/0641-design-circular-deque) |
+## Hash Table
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu29441/applied-programming-skills4/tree/master/0621-task-scheduler) |
+## Greedy
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu29441/applied-programming-skills4/tree/master/0621-task-scheduler) |
+## Sorting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu29441/applied-programming-skills4/tree/master/0621-task-scheduler) |
+## Counting
+|  |
+| ------- |
+| [0621-task-scheduler](https://github.com/vtu29441/applied-programming-skills4/tree/master/0621-task-scheduler) |
 <!---LeetCode Topics End-->
